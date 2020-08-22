@@ -1,0 +1,25 @@
+.l {
+  display: block;
+  border: 1px solid rgb(0, 0, 0);
+  margin: 2px;
+  background-color: rgb(7, 57, 73);
+  color: rgb(255, 255, 255);
+  font-family: 'Franklin Gothic Medium', sans-serif;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+.l1 {
+  height: 45px;
+  width: 55px;
+}
+
+.l2 {
+  height: 45px;
+  width: 115px;
+}
+
+.l3 {
+  height: 45px;
+  width: 175px;
+}
